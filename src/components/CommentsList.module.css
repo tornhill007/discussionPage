@@ -1,0 +1,96 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    border-bottom: 1px solid teal;
+    padding: 13px;
+    margin-top: 10px;
+    background-color: #eeeeee;
+    border-radius: 8px;
+    word-wrap: break-word;
+    margin: 10px auto;
+}
+
+.wrapperNew {
+    display: flex;
+    width: 45%;
+    flex-direction: column;
+    border-bottom: 1px solid teal;
+    padding: 13px;
+    margin-top: 10px;
+    background-color: #eeeeee;
+    border-radius: 8px;
+    word-wrap: break-word;
+    margin: 10px auto;
+}
+
+.statePositive {
+    background-color: rgba(0,170,5,0.5);
+}
+
+.stateNegative {
+    background-color: brown;
+}
+
+.wrapBlock {
+    /*border: 1px solid gray;*/
+    /*background-color: white;*/
+}
+
+.container {
+    /*display: flex;*/
+    /*justify-content: center;*/
+}
+
+.itemName {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.itemTime {
+    font-size: 0.8em;
+}
+
+.body {
+    font-size: 1.1em;
+}
+
+.btnWrap {
+    display: flex;
+    justify-content: center;
+}
+
+
+.btnWrap div {
+    margin: 10px;
+}
+
+.btnEdit {
+    padding: 5px 15px;
+    background-color: mediumblue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.btnDelete {
+    padding: 5px 4px;
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.containerNew {
+
+}
+

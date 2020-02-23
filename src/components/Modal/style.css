@@ -1,0 +1,8 @@
+.modal {
+    display: block!important;
+    margin-top: 140px;
+}
+
+.close {
+    display: none;
+}

@@ -1,0 +1,25 @@
+.wrap {
+    display: flex;
+    align-items: center;
+    width: inherit;
+}
+
+.itemRight {
+    margin-left: 20px;
+}
+
+.container {
+    padding-bottom: 25px;
+}
+
+.itemStat {
+    margin-left: 30px;
+    font-size: 0.6em;
+    display: flex;
+    flex-direction: column;
+}
+
+.itemWrap {
+    display: flex;
+    margin-left: 70px;
+}

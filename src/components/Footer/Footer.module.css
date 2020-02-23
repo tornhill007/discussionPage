@@ -1,0 +1,16 @@
+.wrap {
+    color: #d1949f;
+    font-weight: bold;
+}
+
+.wrapList li a{
+    color: #bce15f!important;
+}
+
+footer {
+    background-color: #242831;
+}
+
+.title {
+    padding-left: 38px!important;
+}
